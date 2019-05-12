@@ -2,7 +2,7 @@
 To build an internal reporting tool that will use information from the database to discover what kind of articles the site's readers like.
 
 ## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Building an informative summary from logs is a real task that comes up very often in software engineering. For instance, at Udacity we collect logs to help us measure student progress and the success of our courses. The **reporting tools** we use to analyze those logs involve hundreds of lines of SQL.
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
@@ -22,7 +22,7 @@ Include logo/demo screenshot etc.
 Ex. -
 
 <b>Built with</b>
-- [Electron](https://electron.atom.io)
+- [python](https://electron.atom.io)
 
 ## Features
 What makes your project stand out?
