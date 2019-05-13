@@ -9,7 +9,6 @@ Building an informative summary from logs is a real task that comes up very ofte
 ![alt text](https://github.com/Shadmanwaris/Log-Analysis/blob/master/screenshot/Screenshot%20from%202019-05-13%2000-33-04.png)
 
 ## Tech/framework used
-Ex. -
 
 <b>Built with</b>
 - [python](https://www.python.org/)
@@ -92,7 +91,6 @@ July 17, 2016  -- 2.2626862468 %
 - [Udacity Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 - [Source Code](https://github.com/Shadmanwaris/Log-Analysis)
 
-#### Anything else that seems useful
 
 ## License
 A short snippet describing the license (MIT, Apache etc)
