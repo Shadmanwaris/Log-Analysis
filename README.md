@@ -1,19 +1,9 @@
 ## Log-Analysis
 To build an internal reporting tool that will use information from the database to discover what kind of articles the site's readers like.
 
-## Motivation
+## Description
 Building an informative summary from logs is a real task that comes up very often in software engineering. For instance, at Udacity we collect logs to help us measure student progress and the success of our courses. The **reporting tools** we use to analyze those logs involve hundreds of lines of SQL.
 
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
-
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
-
-## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
-
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
 ![alt text](https://github.com/Shadmanwaris/Log-Analysis/blob/master/screenshot/Screenshot%20from%202019-05-13%2000-33-04.png)
@@ -22,7 +12,7 @@ If you're using any code style like xo, standard etc. That will help others whil
 Ex. -
 
 <b>Built with</b>
-- [python](https://electron.atom.io)
+- [python](https://www.python.org/)
 
 ## Table of Contents
 
